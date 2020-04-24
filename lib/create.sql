@@ -1,2 +1,2 @@
-CREATE TABEL bears (
+CREATE TABLE bears (
 )
