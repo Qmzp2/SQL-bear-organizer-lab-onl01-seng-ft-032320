@@ -1,0 +1,2 @@
+CREATE TABEL bears (
+)
